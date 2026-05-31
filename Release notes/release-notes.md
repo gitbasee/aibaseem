@@ -60,6 +60,21 @@
 
 ---
 
+## [2026-06-01] — Release Notes Rule Added to Rules Files
+
+### Prompt Given
+> "create a instruction under rules md file after every prompt make a entry into release notes"
+
+### Activities
+- Added **Rule 1: Release Notes Entry Required** to `Rules/frontend.md`
+- Added **Rule 1: Release Notes Entry Required** to `Rules/backend.md`
+- Rule mandates that after every prompt, an entry is made in `Release notes/release-notes.md` with prompt, activities, and commit ID
+
+### Commit ID
+> _Pending_
+
+---
+
 ## Notes
 - Commit IDs will be updated once a Git repository is initialized (`git init`) and commits are made.
 - Each future change should be logged here with the corresponding prompt, activities, and commit ID/message.
