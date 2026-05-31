@@ -85,7 +85,7 @@
 - Updated Rule 1 in `Rules/backend.md` — same change
 
 ### Commit ID
-> _Pending_
+> `110d639` — feat(rules): update Rule 1 - release notes entry triggered on commit not every prompt
 
 ---
 
