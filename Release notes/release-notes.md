@@ -75,6 +75,20 @@
 
 ---
 
+## [2026-06-01] — Rule 1 Updated in Rules Files
+
+### Prompt Given
+> "modify Rule 1 - make entry when the code is committed"
+
+### Activities
+- Updated Rule 1 in `Rules/frontend.md` — trigger changed from "after every prompt" to "when code is committed"
+- Updated Rule 1 in `Rules/backend.md` — same change
+
+### Commit ID
+> _Pending_
+
+---
+
 ## Notes
 - Commit IDs will be updated once a Git repository is initialized (`git init`) and commits are made.
 - Each future change should be logged here with the corresponding prompt, activities, and commit ID/message.
