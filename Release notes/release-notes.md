@@ -71,7 +71,7 @@
 - Rule mandates that after every prompt, an entry is made in `Release notes/release-notes.md` with prompt, activities, and commit ID
 
 ### Commit ID
-> _Pending_
+> `8171a0f` — feat(rules): add release notes entry rule to frontend and backend rules files
 
 ---
 
