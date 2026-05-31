@@ -89,6 +89,23 @@
 
 ---
 
+## [2026-06-01] — Published to npmjs
+
+### Prompt Given
+> "i want to publish this instruction folder into npmjs"
+> "i have created a new token by-passing 2factor authentication"
+
+### Activities
+- Created `package.json` with package name `@baseeem/aibaseem@1.0.0`
+- Created `.npmignore` to exclude `.git` from the npm package
+- Fixed `repository.url` field in `package.json` via `npm pkg fix`
+- Published `@baseeem/aibaseem@1.0.0` to https://www.npmjs.com/package/@baseeem/aibaseem
+
+### Commit ID
+> _Pending_
+
+---
+
 ## Notes
 - Commit IDs will be updated once a Git repository is initialized (`git init`) and commits are made.
 - Each future change should be logged here with the corresponding prompt, activities, and commit ID/message.

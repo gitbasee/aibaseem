@@ -1,0 +1,33 @@
+{
+  "name": "@baseeem/aibaseem",
+  "version": "1.0.0",
+  "description": "Generic AI instruction files for frontend and backend projects — compatible with GitHub Copilot, Claude Code, Cursor, Windsurf, and other AI models.",
+  "keywords": [
+    "ai",
+    "instructions",
+    "copilot",
+    "claude",
+    "cursor",
+    "windsurf",
+    "rules",
+    "frontend",
+    "backend",
+    "agents",
+    "skills"
+  ],
+  "author": "gitbasee",
+  "license": "MIT",
+  "files": [
+    "Rules/",
+    "Commands/",
+    "hooks/",
+    "Agents/",
+    "Skills/",
+    "Release notes/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitbasee/aibaseem.git"
+  },
+  "homepage": "https://github.com/gitbasee/aibaseem#readme"
+}
